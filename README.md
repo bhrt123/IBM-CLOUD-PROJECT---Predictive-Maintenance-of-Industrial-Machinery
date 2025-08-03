@@ -1,0 +1,2 @@
+# IBM-CLOUD-PROJECT---Predictive-Maintenance-of-Industrial-Machinery
+Complete Project Files - FINAL PROJECT FOR IBM SKILLSBUILD INTERNSHIP DONE ON IBM CLOUD - IBM WATSON STUDIO
